@@ -1,0 +1,16 @@
+<!-- 导航条
+================================================== -->
+<header>
+	<div class="border-bot">
+		<div class="main">
+			<h1><a href="#">运动估计</a></h1>
+			<nav>
+				<ul class="menu">
+					<li><a class="active" href="#" onclick="reloadData(0)" >Home</a></li>
+					<li><a onclick="reloadData(1)">Events</a></li>
+				</ul>
+			</nav>
+			<div class="clear"></div>
+		</div>
+	</div>
+</header>
